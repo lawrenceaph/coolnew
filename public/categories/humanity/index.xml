@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>humanity on title (2)</title>
+    <link>/categories/humanity/</link>
+    <description>Recent content in humanity on title (2)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 26 Apr 2021 20:37:10 +0800</lastBuildDate><atom:link href="/categories/humanity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Your Amazing Post!</title>
+      <link>/posts/coolpost/</link>
+      <pubDate>Mon, 26 Apr 2021 20:37:10 +0800</pubDate>
+      
+      <guid>/posts/coolpost/</guid>
+      <description>This Post is written in Markdown. Check the Markdown Syntax Guide for more info.    The static site generator used to build pages from this repository is called Hugo. Like many generators, it uses Markdown for content posts.
+Your awesome content can go here!</description>
+    </item>
+    
+  </channel>
+</rss>
